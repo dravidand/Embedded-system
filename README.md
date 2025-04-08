@@ -60,7 +60,9 @@ A 4WD rover designed for radiation mapping, using a **UV sensor** as a proof of 
 
 - Demo video showcasing the working system:
   https://github.com/user-attachments/assets/db62c52c-53ec-4206-8c66-9a5446f7413e
-
+  
+- Group video demonstration:
+  https://vimeo.com/1071792970
 
 ## 🔹 Future Improvements  
 🔹 Replace UV sensor with an actual radiation sensor like GM-Tube and include wireless camera.  
